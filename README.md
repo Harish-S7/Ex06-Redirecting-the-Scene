@@ -54,9 +54,11 @@ public class Coding : MonoBehaviour
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/b7fec9f1-1939-4f09-8445-584a02680016)
-![image](https://github.com/user-attachments/assets/459b0f24-5262-4e3a-8e9b-0f31687909ec)
-![image](https://github.com/user-attachments/assets/b9811b46-1237-440d-b10d-175518e46c29)
+![image](https://github.com/user-attachments/assets/72ba02ae-4e90-4c6f-bf2d-ebe219dd9ed7)
+![image](https://github.com/user-attachments/assets/ca7deb7c-cf41-4e20-b6ac-956383140f2b)
+![image](https://github.com/user-attachments/assets/e0a70008-3b7d-47d7-a78e-31edb919d5a9)
+
+
 
 
 ## Result:
