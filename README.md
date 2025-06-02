@@ -19,8 +19,8 @@ Step 6: Use the R button to change the level2.
 Step 7 Print the Output and end the program.
 
 ## Program:
-## DEVELOPED BY : PAVITRA .J
-## REG NO : 212224110043
+## DEVELOPED BY : Harish S
+## REG NO : 212224230086
 ```
 using UnityEngine;
 using UnityEngine.SceneManagement;
